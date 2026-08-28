@@ -1,0 +1,6 @@
+a=(56,784,84,86154,4,48,'sujal',450) 
+print(a)
+no=a.count(84)
+print(no)
+i=a.index(84)
+print(i)
